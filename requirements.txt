@@ -9,7 +9,7 @@ charset-normalizer==3.2.0
 cryptography==41.0.2
 defusedxml==0.7.1
 Django==4.2.27
-django-allauth==0.54.0
+django-allauth==65.13.0
 frozenlist==1.4.0
 idna==3.4
 multidict==6.0.4
